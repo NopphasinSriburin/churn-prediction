@@ -2,6 +2,8 @@
 
 ระบบวิเคราะห์และทำนายว่าลูกค้ากลุ่มใดมีแนวโน้มเลิกใช้บริการ พร้อมเสนอ action ทางธุรกิจเพื่อลด churn — ครอบคลุมตั้งแต่ data cleaning, EDA, การเทียบหลายโมเดล ไปจนถึง interactive dashboard ที่ใช้งานได้จริงในองค์กร
 
+Link : https://churn-prediction-ip8nq4gpoftwaaewkk4rbu.streamlit.app/
+
 <img width="1887" height="902" alt="image" src="https://github.com/user-attachments/assets/cca368b7-4d82-40d4-9621-f1658df50f1b" />
 <img width="1903" height="903" alt="image" src="https://github.com/user-attachments/assets/3635a796-2975-4b8e-a26b-affafa93b0a1" />
 <img width="1897" height="897" alt="image" src="https://github.com/user-attachments/assets/ac15d9fa-c958-4971-89ec-caea3fad097d" />
