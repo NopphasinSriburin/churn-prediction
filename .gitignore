@@ -2,5 +2,4 @@ __pycache__/
 *.pyc
 venv/
 .env
-data/raw/*.csv
-models/*.pkl
+data/raw/*.csvgit push
